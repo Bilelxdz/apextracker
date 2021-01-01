@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+select {
+  width: 4rem;
+  background-color: azure;
+}
+input {
+  background-color: azure;
+}
+button {
+  background-color: azure;
+}
